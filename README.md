@@ -41,6 +41,8 @@ npm run build
 ```
 ## Screenshots
 
+![Coolshop-React-Assignment](https://user-images.githubusercontent.com/52796685/190147923-2ace8f96-9f3a-4899-a74a-20fdf13264c9.png)
+![Coolshop-React-Assignment (1)](https://user-images.githubusercontent.com/52796685/190147930-125e883f-89d6-495f-8c1c-fe6d8aa93a78.png)
 
 ## Authors
 
